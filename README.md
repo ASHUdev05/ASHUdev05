@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true)]
+[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true)](https://github.com/ASHUdev05/README.md)
 
 
 <!--
