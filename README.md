@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ASHUdev05/ASHUdev05/main/wave.gif" width="30px">
+👋
 
 <a href="https://github.com/ASHUdev05">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117">
