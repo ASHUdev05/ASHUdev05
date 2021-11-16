@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👋
+I am Ashutosh Kumar Jha. A "2005" born male, based in India. Currently a senior high school student and CS enthusiast. 
 
 <a href="https://github.com/ASHUdev05">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117">
