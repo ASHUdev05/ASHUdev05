@@ -1,6 +1,9 @@
 ### Hi there 👋
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true)](https://github.com/ASHUdev05/README.md)
 
+<a href="https://github.com/cosmxc">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHUdev05&count_private=true&show_icons=true)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmxc&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=87b4bf">
+</a>
 
 <!--
 **ASHUdev05/ASHUdev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
