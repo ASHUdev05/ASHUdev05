@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Ashutosh Kumar Jha. A "2005" born male, based in India. Currently a senior high school student and CS enthusiast. 
+I am Ashutosh Kumar Jha. A "2005" born male, based in India. Currently a college student and future CS undergrad. 
 <br><br><br>
 - Website: [ashu05.me](https://ashu05.me/)
 
